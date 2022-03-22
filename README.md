@@ -1,7 +1,7 @@
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=1kTech&show_icons=true&count_private=true&theme=tokyonight&hide=prs,contribs">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=1kTech&layout=compact&theme=tokyonight&langs_count=6">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=1kTech&theme=tokyonight&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=1kTech&show_icons=true&count_private=true&theme=tokyonight&hide=prs,contribs&bg_color=00000000&hide_border=true">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=1kTech&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&bg_color=00000000&">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=1kTech&theme=tokyonight&background=FFFFFF00&hide_border=true">
 </p>
 <!--
 **1kTech/1kTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
